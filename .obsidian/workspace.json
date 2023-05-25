@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "61e9a4c6297f4a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "398272e7c79b3d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b21161f12e06be54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people number change.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29c5aa7d6c49597c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a0cbd068dcbc442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d569606bfd46051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d30ced87c66ef8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1febf35a9753f6d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bd5fe2486f69e62",
+    "type": "split",
+    "children": [
+      {
+        "id": "4623d03c2f56964f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6618d9b2f364d3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "people number change.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2f87eee96f71c50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "people number change.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fa87cf9bcf9e103",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bd6e475c010cf5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "people number change.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7d569606bfd46051",
+  "lastOpenFiles": [
+    "Pasted image 20221025092148.png",
+    "people number change.md"
+  ]
+}
